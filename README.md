@@ -8,11 +8,11 @@ Keep in mind that this is not an ultimate list and I will keep updating it with 
 
 # Questions
 
-**Question**
+<!-- **Question**
 
 ```
 Answer
-```
+``` -->
 
 ---
 
@@ -76,4 +76,4 @@ Answer
 
 **PRIMARY KEY VS FOREIGN KEY**
 
-\*_Rank Vs Dense_rank Vs Row number_
+**Rank Vs Dense_rank Vs Row number**
